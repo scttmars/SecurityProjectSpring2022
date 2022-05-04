@@ -7,8 +7,8 @@ a week to break my test password
 
 sshpass also needs to be installed for this program to work correctly since this is used to give the password and the account in the same line.
 
-It also requires the crackstation-human-only.txt file to run properly. This file was too large to include in the commit. The link to downoad it is here: 
-This list is a list of 64 million known passwords.
+It also requires the crackstation-human-only.txt file to run properly. This file was too large to include in the commit. The link to downoad it is here: https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
+This list is a list of 64 million known human passwords.
 
 # Evolution of Dictionary Attack
 
